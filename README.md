@@ -1,5 +1,5 @@
 # Register : 
-http://X.ink/HZTGK3
+https://X.ink/HZTGK3
 # Daily Claim XOS Bot
 
 ```
