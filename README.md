@@ -1,4 +1,5 @@
-Register : X.ink/HZTGK3
+# Register : 
+X.ink/HZTGK3
 # Daily Claim XOS Bot
 
 ```
